@@ -1,0 +1,12 @@
+1=Must provide a mime type or handler name and a single extention. eg: <b>text/html</b> or <b>cgi-script</b> and <b>html</b>
+2=Only provide one extension at a time. eg: <b>jpg</b> and NOT <b>jpg jpeg jpe</b>
+3=Geçersiz isim ve eklenti
+4=Handler
+5=Eklentiler
+6=Mime Türü
+7=Seç
+8=Birini Seçin
+9=Eklentiyi Sil
+10=Handleri Sil
+11=Mime Türü Sil
+12=ve
